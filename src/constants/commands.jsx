@@ -223,7 +223,7 @@ export const commands = {
     render: () => {
       if (typeof window !== "undefined") {
         const link = document.createElement("a");
-        link.href = "/resume.pdf"; // Path relative to public/
+        link.href = "src/constants/resume.pdf"; // Path relative to public/
         link.download = "Kruthik_Resume.pdf"; // Optional: Rename on download
         link.click();
       }
