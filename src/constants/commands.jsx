@@ -164,7 +164,7 @@ export const commands = {
         </p>
         <p className="text-green-200">
           <span className="font-bold text-green-400">• Backend and System Design:</span>{" "}
-          REST APIs, OAuth, Microservices, OpenAPI Generator, Scalable & Secure Multi-Tenant Architecture, Docker, Redis, Event-Driven Architecture (Kafka), High-Concurrency.
+          REST APIs, OAuth, Microservices, OpenAPI Generator, Scalable & Secure Multi-Tenant Architecture, Event-Driven Architecture (Kafka), High-Concurrency.
         </p>
         <p className="text-green-200">
           <span className="font-bold text-green-400">• Database & Cloud:</span>{" "}
